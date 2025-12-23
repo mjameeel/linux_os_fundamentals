@@ -91,10 +91,10 @@ This series of labs provides a structured approach to learning Linux fundamental
 ### Step 2: Repository Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/linux-os-fundamentals.git
+git clone https://github.com/mjameeel/linux_os_fundamentals.git
 
 # Navigate to the project directory
-cd linux-os-fundamentals
+cd linux_os_fundamentals
 
 # Explore the lab materials
 ls -la
